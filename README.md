@@ -1,9 +1,13 @@
 # Modélisation ML de l'Humidité du Sol
 ## Données Lisimétriques en Conditions Semi-Arides
 
+<<<<<<< HEAD
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Journal](https://img.shields.io/badge/Target-Agricultural%20Water%20Management%20Q1-orange.svg)]()
+=======
+
+>>>>>>> 1dc0a23b7bfda6d682de4370c3b58cf16d7971d6
 
 > Pipeline complet de Machine Learning pour la prédiction journalière de l'humidité du sol à partir d'un lysimètre de précision et de données météorologiques locales — station semi-aride du Maroc (33.57°N, 603 m a.s.l.), Mai 2023 – Mars 2026.
 
@@ -57,7 +61,11 @@
 
 ### 1. Cloner le dépôt
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/[votre-username]/ml-soil-moisture-semiarid.git
+=======
+git clone https://github.com/OUMAIMAKABIRI/SuLaMo
+>>>>>>> 1dc0a23b7bfda6d682de4370c3b58cf16d7971d6
 cd ml-soil-moisture-semiarid
 ```
 
@@ -202,6 +210,7 @@ Fold 5 : [==========TRAIN (984j)==========] [gap] [TEST]
 - **PBIAS** [%] : Percent Bias (|PBIAS| < 10% = satisfaisant)
 
 ---
+<<<<<<< HEAD
 
 ## Références
 
@@ -227,3 +236,5 @@ MIT License — voir [LICENSE](LICENSE).
 
 [Votre nom] — [email] — [université / laboratoire]  
 Encadrant : [Nom encadrant] — [email encadrant]
+=======
+>>>>>>> 1dc0a23b7bfda6d682de4370c3b58cf16d7971d6
