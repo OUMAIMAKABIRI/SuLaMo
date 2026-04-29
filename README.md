@@ -1,11 +1,6 @@
 # Modélisation ML de l'Humidité du Sol
 ## Données Lisimétriques en Conditions Semi-Arides
 
-<<<<<<< HEAD
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Journal](https://img.shields.io/badge/Target-Agricultural%20Water%20Management%20Q1-orange.svg)]()
-=======
 
 >>>>>>> 1dc0a23b7bfda6d682de4370c3b58cf16d7971d6
 
@@ -62,7 +57,7 @@
 ### 1. Cloner le dépôt
 ```bash
 <<<<<<< HEAD
-git clone https://github.com/[votre-username]/ml-soil-moisture-semiarid.git
+git clone https://github.com/OUMAIMAKABIRI/SuLaMo.git
 =======
 git clone https://github.com/OUMAIMAKABIRI/SuLaMo
 >>>>>>> 1dc0a23b7bfda6d682de4370c3b58cf16d7971d6
@@ -234,7 +229,7 @@ MIT License — voir [LICENSE](LICENSE).
 
 ## Contact
 
-[Votre nom] — [email] — [université / laboratoire]  
-Encadrant : [Nom encadrant] — [email encadrant]
+Oumaima kabiri — oumakabiri@gmail.com — EMSI AGDAL  
+Encadrant : Dr.Ismail AIT LHSAINE
 =======
 >>>>>>> 1dc0a23b7bfda6d682de4370c3b58cf16d7971d6
